@@ -2,7 +2,7 @@
 
 1.	Unzip folder
 2.	Run this script 
-CREATE DATABASE IF NOT EXISTS `legalexam`
+    CREATE DATABASE IF NOT EXISTS `legalexam`
 3.	You can the credentials in your local (application properties)
     server.port=8080
     spring.datasource.url=jdbc:mysql://localhost:3306/legalexam
