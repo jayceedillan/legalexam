@@ -1,5 +1,5 @@
 # legalexam
-
+0. http://localhost:8080/Login
 1.	Unzip folder
 2.	Run this script 
     CREATE DATABASE IF NOT EXISTS `legalexam`
@@ -12,3 +12,4 @@
 4.	Credential app 
    username: admin and password:admin for admin user
     username:standard and password:standard for not admin user
+
